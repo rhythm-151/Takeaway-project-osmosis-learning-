@@ -1,0 +1,19 @@
+ .header{
+    display: flex;
+    border-bottom: 1px solid #b29e9e;
+   
+}
+.search-icon{
+    margin-left: 600px;
+    padding-top: 24px;
+}
+
+.header-links{
+    margin-left: 20px;
+    margin-right:0px;
+    padding-top: 20px;
+}  
+
+.as{
+    padding: 20px;
+}

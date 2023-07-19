@@ -1,0 +1,39 @@
+.headiv {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    border-bottom: 1px solid #ccc; 
+   
+  }
+  
+  .headiv h2 {
+    margin: 0;
+  }
+  
+  .filter-icons {
+    display: flex;
+    align-items: center;
+  }
+  
+  .filter-icons input {
+    margin-right: 10px;
+  }
+  
+  .icons {
+    display: flex;
+  }
+  
+  .icons svg {
+    margin-right: 10px;
+  }
+
+  .dropdown-icon {
+    position: absolute;
+    top: 21.5%;
+    right: 98px;
+    transform: translateY(-50%);
+    pointer-events: none;
+    color: #999; 
+  }
+  

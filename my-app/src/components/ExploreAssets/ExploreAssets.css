@@ -1,0 +1,16 @@
+.explore-assets{
+    padding: 3px;
+}
+
+.home-icon {
+  display: flex; 
+  align-items: center; 
+}
+
+.home-icon svg {
+  margin-right: 8px; 
+}
+
+.heading{
+    color: rgb(110, 110, 208);
+}
